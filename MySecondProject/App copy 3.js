@@ -2,7 +2,7 @@ import { StatusBar } from 'expo-status-bar';
 import { Text} from 'react-native';
 import {React} from 'react';
 
-export default function MyApp() {
+export default function MyApp3() {
   return (   
     <View> 
       <Text>

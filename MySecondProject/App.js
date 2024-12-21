@@ -1,5 +1,8 @@
 import React from 'react';
 import { Text, TextInput, View } from 'react-native';
+import MyApp1 from './App copy';
+import MyApp2 from './App copy 2';
+import MyApp3 from './App copy 3';
 
 function MyApp() {
   return (   
@@ -21,9 +24,8 @@ export default function MultiComp(){
     }}> 
       <Text> Welcome to My Class </Text>
       <MyApp />
-      <MyApp />
-      <MyApp />
-      <MyApp />
+      <MyApp1 />
+      <MyApp2/>
      </View> 
   )
 }
