@@ -26,6 +26,7 @@ export default function MultiComp(){
       <MyApp />
       <MyApp1 />
       <MyApp2/>
+      
      </View> 
   )
 }
